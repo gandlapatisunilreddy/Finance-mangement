@@ -1,1 +1,1 @@
-# Finance-mangement
+# Finance-management
